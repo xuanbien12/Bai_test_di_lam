@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "home": "https://xuanbien12.github.io/Bai_test_di_lam",
+  "homepage": "https://xuanbien12.github.io/Bai_test_di_lam/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
